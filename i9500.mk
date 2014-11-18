@@ -83,6 +83,14 @@ PRODUCT_PACKAGES += \
     hwcomposer.exynos5 \
     libion
 
+# GPU
+PRODUCT_PACKAGES += \
+    pvrsrvctl
+
+# HWC
+PRODUCT_PACKAGES += \
+    libcorkscrew
+
 # IR
 PRODUCT_PACKAGES += \
     consumerir.universal5410
