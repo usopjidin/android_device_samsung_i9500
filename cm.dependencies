@@ -12,12 +12,18 @@
         "target_path": "hardware/samsung_slsi/exynos"
     },
     {
+        "remote":       "github",
+        "account":      "usopjidin",
         "repository": "android_hardware_samsung_slsi_exynos5-insignal",
-        "target_path": "hardware/samsung_slsi/exynos5-insignal"
+        "target_path": "hardware/samsung_slsi/exynos5-insignal",
+        "revision":     "cm-12.0"
     },
     {
+        "remote":       "github",
+        "account":      "usopjidin",
         "repository": "android_hardware_samsung_slsi_exynos5410",
-        "target_path": "hardware/samsung_slsi/exynos5410"
+        "target_path": "hardware/samsung_slsi/exynos5410",
+        "revision":     "cm-12.0"
     },
     {
         "repository": "android_hardware_samsung_slsi_openmax",
